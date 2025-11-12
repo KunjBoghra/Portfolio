@@ -360,7 +360,7 @@ body {
 /* 🔹 Mobile - 425px */
 @media (max-width: 425px) {
     .hero-section {
-        padding: 140px 20px 0;
+        padding: 28px 20px 0;
     }
 
     .hero-content h1 {

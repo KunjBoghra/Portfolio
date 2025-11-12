@@ -73,50 +73,50 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: "Creative Frame",
+      title: "Rentel",
       category: "Web Development",
       image: galleryImg1, // replace with your image path
-      description: "A modern web design project with clean UI.",
+      description: "Rentel is a smart rental marketplace where you can rent or lend clothes, electronics, vehicles, and more.",
       link: "https://www.rentel.in/",
     },
     {
       id: 2,
-      title: "Elegant Shapes",
+      title: "Free pexels",
       category: "Web Development",
       image: galleryImg2,
-      description: "Beautiful illustrations and layouts for apps.",
+      description: "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.",
       link: "https://build-pexels.vercel.app/",
     },
     {
       id: 3,
-      title: "Color Flow",
-      category: "Graphic Design",
+      title: "Calcue Website",
+      category: "Web Development",
       image: galleryImg3,
-      description: "Creative and vibrant designs for digital media.",
+      description: "Offers a strong and reliable hosting platform that is safe and secure and the best way to protect your data from any attack. Easy Scalability for Every Stage of .",
       link: "https://www.calcue.com/",
     },
     {
       id: 4,
-      title: "Color Flow",
-      category: "Graphic Design",
+      title: "Furniture Store",
+      category: "web development",
       image: galleryImg4,
-      description: "Creative and vibrant designs for digital media.",
+      description: "Transform your space with stylish, comfortable, and affordable furniture — crafted for every home and lifestyle.",
       link: "https://furniture-store-awlyr8c0a-kunjboghras-projects.vercel.app/",
     },
     {
       id: 5,
-      title: "Color Flow",
-      category: "Graphic Design",
+      title: "Admin Dashboard",
+      category: "web development",
       image: galleryImg5,
-      description: "Creative and vibrant designs for digital media.",
+      description: "A smart, responsive admin dashboard designed to give you full control over your business operations with real-time insights, analytics, and easy management tools.",
       link: "https://kunjboghra.github.io/AdminSite/",
     },
     {
       id: 5,
-      title: "Color Flow",
-      category: "Graphic Design",
+      title: "E-commerce Store",
+      category: "web development",
       image: galleryImg6,
-      description: "Creative and vibrant designs for digital media.",
+      description: "The Storefront Seller Dashboard is your all-in-one platform to manage products, track sales, and grow your business.",
       link: "https://storefrontsaleor.vercel.app/",
     },
 
@@ -238,8 +238,9 @@ const Portfolio = () => {
               I’m a <span>Frontend Developer</span>
             </h1>
             <p>
-              For the past decade, I’ve been on a mission to revolutionize design
-              and tech with bold creativity and cutting-edge solutions.
+              I specialize in building responsive and high-performing websites using modern front-end tools.
+              My focus is on writing clean code and creating smooth user experiences.
+              I believe good websites should be simple, fast, and meaningful.
             </p>
             <a
               href="/Kunj_Boghra_CV.pdf"
@@ -300,7 +301,7 @@ const Portfolio = () => {
       <section className="Diremit" id="skills">
         <div className="diremit-container">
           <div className="diremit-left">
-            <h5 className="section-subtitle">MY SERVICES</h5>
+            <h5 className="section-subtitle">MY Skills</h5>
             <h2 className="section-title">My Design and Development Skill</h2>
             <p className="section-text">
               Mattis sunt aptent dapibus conubia magnis. Do faucibus volutpat vel excepturi
