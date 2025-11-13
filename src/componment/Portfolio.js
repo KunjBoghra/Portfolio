@@ -270,12 +270,11 @@ const Portfolio = () => {
             <h1>
               Hi there, I’m <span>Kunj Boghra</span>
             </h1>
-            <h4>Frontend Developer based in India</h4>
+            <h4>Frontend Developer | Creative Technologist | India</h4>
             <p>
-              For the past decade, I’ve been on a mission to revolutionize design
-              and tech with bold creativity and cutting-edge solutions. I focus on
-              crafting modern, responsive, and user-friendly web experiences.
+              I’m passionate about blending creativity with technology to build seamless, visually striking, and high-performing web experiences. With years of hands-on experience in modern frontend frameworks and design systems, I specialize in developing responsive, accessible, and engaging digital interfaces.
             </p>
+            <p> My goal is simple — to transform ideas into functional, user-centered designs that leave a lasting impression. </p>
 
             <div className="about-buttons">
               <a
@@ -302,10 +301,9 @@ const Portfolio = () => {
         <div className="diremit-container">
           <div className="diremit-left">
             <h5 className="section-subtitle">MY Skills</h5>
-            <h2 className="section-title">My Design and Development Skill</h2>
+            <h2 className="section-title">My Design and Development Skills</h2>
             <p className="section-text">
-              Mattis sunt aptent dapibus conubia magnis. Do faucibus volutpat vel excepturi
-              accumsan hendrerit morbi leo, rerum excepturi aptent torquento.
+              I specialize in creating modern, responsive, and user-friendly web interfaces with a strong focus on clean design, performance, and seamless user experience.
             </p>
           </div>
 
